@@ -6,12 +6,12 @@ https://en.wikipedia.org/wiki/Speaking_clock
 ## US
 
 -   WWV, Fort Collins, CO
-    -   +1 303 499-7111
+    -   +1 303 499-7111 (shortwave signal)
 
 -   WWVH, Kauai, HI
-    -   +1 808 335-4363
+    -   +1 808 335-4363 (voice of Jane Barbe!)
 
--   US Naval Observatory Master Clock
+-   US Naval Observatory Master Clock, voiced by Fred Covington
     -   +1 202 762-1401 (Washington, DC)
     -   +1 202 762-1069 (Washington, DC)
     -   +1 719 567-6742 (Boulder, CO)
