@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/Speaking_clock
 ## US
 
 -   WWV, Fort Collins, CO
-    -   +1 303 499-7111 (shortwave signal)
+    -   +1 303 499-7111 (voice of John Doyle)
 
 -   WWVH, Kauai, HI
     -   +1 808 335-4363 (voice of Jane Barbe!)
