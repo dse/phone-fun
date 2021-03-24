@@ -1,5 +1,8 @@
 # Time Signals
 
+Telephone time announcements
+https://en.wikipedia.org/wiki/Speaking_clock
+
 ## US
 
 -   WWV, Fort Collins, CO
